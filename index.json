@@ -1,91 +1,357 @@
 [
-  {"type":"directory","name":".","contents":[
-    {"type":"file","name":"accounts-qml-module_0.7.orig.tar.gz"},
-    {"type":"file","name":"android-headers_7.1.orig.tar.xz"},
-    {"type":"file","name":"angelfish_0+git20180814.orig.tar.xz"},
-    {"type":"file","name":"buho_0+git20181020.orig.tar.xz"},
-    {"type":"file","name":"buho_0+git20181114.orig.tar.xz"},
-    {"type":"file","name":"drihybris_0.1.0+git20180622.orig.tar.xz"},
-    {"type":"file","name":"drihybris_0.1.0+git20181223.orig.tar.xz"},
-    {"type":"file","name":"glamor-hybris_0.1.0+git20180622.orig.tar.xz"},
-    {"type":"file","name":"glamor-hybris_0.1.0+git20181223.orig.tar.xz"},
-    {"type":"file","name":"glosbit_0+git20180820.orig.tar.xz"},
-    {"type":"file","name":"gpodder-core_4.6.0+git20181031.orig.tar.xz"},
-    {"type":"file","name":"gpodder-plamo_0.1.orig.tar.xz"},
-    {"type":"file","name":"gst-droid_0.20180503.0.orig.tar.xz"},
-    {"type":"file","name":"gst-droid_0.20181017.0.orig.tar.xz"},
-    {"type":"file","name":"gst-droid_0.20181123.0.orig.tar.xz"},
-    {"type":"file","name":"gst-droid_0.20181128.0.orig.tar.xz"},
-    {"type":"file","name":"gst-droid_0.20181213.0.orig.tar.xz"},
-    {"type":"file","name":"index_0+git20180905.orig.tar.xz"},
-    {"type":"file","name":"index_0+git20180930.orig.tar.xz"},
-    {"type":"file","name":"index_0+git20181020.orig.tar.xz"},
-    {"type":"file","name":"index_0+git20181114.orig.tar.xz"},
-    {"type":"file","name":"kaidan_0.3.2+git20180929.orig.tar.xz"},
-    {"type":"file","name":"kaidan_0.3.2+git20181020.orig.tar.xz"},
-    {"type":"file","name":"kaidan_0.3.2+git20181213.orig.tar.xz"},
-    {"type":"file","name":"kaidan_0.3.2+git20181219.orig.tar.xz"},
-    {"type":"file","name":"kaidan_0.3.2+git20190114.orig.tar.xz"},
-    {"type":"file","name":"koko_0.0+git20180504.orig.tar.xz"},
-    {"type":"file","name":"kpeoplevcard_0.0+git20180520.orig.tar.xz"},
-    {"type":"file","name":"libhybris_0.1.0+git20180616.orig.tar.xz"},
-    {"type":"file","name":"libhybris_0.1.0+git20180625.orig.tar.xz"},
-    {"type":"file","name":"libhybris_0.1.0+git20181125.orig.tar.xz"},
-    {"type":"file","name":"libhybris_0.1.0+git20190104.orig.tar.xz"},
-    {"type":"file","name":"libhybris_0.1.0+git20190111.orig.tar.xz"},
-    {"type":"file","name":"llsvplayer_0.3+git20180828.orig.tar.xz"},
-    {"type":"file","name":"llsvplayer_0.3+git20181020.orig.tar.xz"},
-    {"type":"file","name":"lxc-android_0.1+git20180520.orig.tar.xz"},
-    {"type":"file","name":"lxc-android_0.1+git20180527.orig.tar.xz"},
-    {"type":"file","name":"lxc-android_0.1+git20180723.orig.tar.xz"},
-    {"type":"file","name":"mauikit_0+git20180927.orig.tar.xz"},
-    {"type":"file","name":"mauikit_0+git20181020.orig.tar.xz"},
-    {"type":"file","name":"mauikit_0+git20181114.orig.tar.xz"},
-    {"type":"file","name":"ofono-qt_1.5+git20120419+bcf0c04.orig.tar.xz"},
-    {"type":"file","name":"pix_0+git20180905.orig.tar.xz"},
-    {"type":"file","name":"pix_0+git20181003.orig.tar.xz"},
-    {"type":"file","name":"pix_0+git20181020.orig.tar.xz"},
-    {"type":"file","name":"pix_0+git20181114.orig.tar.xz"},
-    {"type":"file","name":"plasma-angelfish_0+git20180828.orig.tar.xz"},
-    {"type":"file","name":"plasma-angelfish_0+git20190107.orig.tar.xz"},
-    {"type":"file","name":"plasma-angelfish_0+git20190116.orig.tar.xz"},
-    {"type":"file","name":"plasma-camera_0.0.1+git20181031.orig.tar.xz"},
-    {"type":"file","name":"plasma-camera_0.0.1+git20181110.orig.tar.xz"},
-    {"type":"file","name":"plasma-camera_0.0.1+git20181111.orig.tar.xz"},
-    {"type":"file","name":"plasma-nm_5.14.3+git20190105.orig.tar.xz"},
-    {"type":"file","name":"plasma-phone-components_0.7+git20180811.orig.tar.xz"},
-    {"type":"file","name":"plasma-phone-components_0.7+git20181111.orig.tar.xz"},
-    {"type":"file","name":"plasma-phone-components_0.7+git20181114.orig.tar.xz"},
-    {"type":"file","name":"plasma-phone-settings_4+git20180223.orig.tar.xz"},
-    {"type":"file","name":"plasma-phone-settings_4+git20181111.orig.tar.xz"},
-    {"type":"file","name":"plasma-phone-settings_4.orig.tar.xz"},
-    {"type":"file","name":"plasma-settings_0.0.1+git20180828.orig.tar.xz"},
-    {"type":"file","name":"plasma-settings_0.0.1+git20181111.orig.tar.xz"},
-    {"type":"file","name":"plasma-settings_0.0.1+git20181114.orig.tar.xz"},
-    {"type":"file","name":"plasma-settings_0.0.1+git20190118.orig.tar.xz"},
-    {"type":"file","name":"qmic_0.1+git20180323.orig.tar.xz"},
-    {"type":"file","name":"qmic_0.1+git20180625.orig.tar.xz"},
-    {"type":"file","name":"qmic_0.1+git20180712.orig.tar.xz"},
-    {"type":"file","name":"qmic_0.1+git20181013.orig.tar.xz"},
-    {"type":"file","name":"qmi-gps-proxy_0.0+0+df3b976.orig.tar.xz"},
-    {"type":"file","name":"qmlkonsole_0+git20180927.orig.tar.xz"},
-    {"type":"file","name":"qmltermwidget_0.1+git20180903.orig.tar.xz"},
-    {"type":"file","name":"qrtr_0.3+git20180323.orig.tar.xz"},
-    {"type":"file","name":"qrtr_0.3+git20180712.orig.tar.xz"},
-    {"type":"file","name":"qrtr_0.3+git20181013.orig.tar.xz"},
-    {"type":"file","name":"rmtfs_0.2+git20180323.orig.tar.xz"},
-    {"type":"file","name":"rmtfs_0.2+git20181013.orig.tar.xz"},
-    {"type":"file","name":"rpmsgexport_0.1+git20180405.orig.tar.gz"},
-    {"type":"file","name":"rpmsgexport_0.1+git20181013.orig.tar.xz"},
-    {"type":"file","name":"simplelogin_0.0.6+git20180314.orig.tar.xz"},
-    {"type":"file","name":"simplelogin_0.0.6+git20181114.orig.tar.xz"},
-    {"type":"file","name":"telepathy-ofono_0.2.20161109.orig.tar.xz"},
-    {"type":"file","name":"vvave_1.2+git20180905.orig.tar.xz"},
-    {"type":"file","name":"vvave_1.2+git20180930.orig.tar.xz"},
-    {"type":"file","name":"vvave_1.2+git20181020.orig.tar.xz"},
-    {"type":"file","name":"vvave_1.2+git20181114.orig.tar.xz"},
-    {"type":"file","name":"xserver-xorg-video-hwcomposer_0.3.8+git20180622.orig.tar.xz"},
-    {"type":"file","name":"xserver-xorg-video-hwcomposer_0.3.8+git20181223.orig.tar.xz"}
-  ]},
-  {"type":"report","directories":0,"files":86}
+    {
+        "type": "directory",
+        "name": ".",
+        "contents": [
+            {
+                "type": "file",
+                "name": "accounts-qml-module_0.7.orig.tar.gz"
+            },
+            {
+                "type": "file",
+                "name": "android-headers_7.1.orig.tar.xz"
+            },
+            {
+                "type": "file",
+                "name": "angelfish_0+git20180814.orig.tar.xz"
+            },
+            {
+                "type": "file",
+                "name": "buho_0+git20181020.orig.tar.xz"
+            },
+            {
+                "type": "file",
+                "name": "buho_0+git20181114.orig.tar.xz"
+            },
+            {
+                "type": "file",
+                "name": "drihybris_0.1.0+git20180622.orig.tar.xz"
+            },
+            {
+                "type": "file",
+                "name": "drihybris_0.1.0+git20181223.orig.tar.xz"
+            },
+            {
+                "type": "file",
+                "name": "glamor-hybris_0.1.0+git20180622.orig.tar.xz"
+            },
+            {
+                "type": "file",
+                "name": "glamor-hybris_0.1.0+git20181223.orig.tar.xz"
+            },
+            {
+                "type": "file",
+                "name": "glosbit_0+git20180820.orig.tar.xz"
+            },
+            {
+                "type": "file",
+                "name": "gpodder-core_4.6.0+git20181031.orig.tar.xz"
+            },
+            {
+                "type": "file",
+                "name": "gpodder-plamo_0.1.orig.tar.xz"
+            },
+            {
+                "type": "file",
+                "name": "gst-droid_0.20180503.0.orig.tar.xz"
+            },
+            {
+                "type": "file",
+                "name": "gst-droid_0.20181017.0.orig.tar.xz"
+            },
+            {
+                "type": "file",
+                "name": "gst-droid_0.20181123.0.orig.tar.xz"
+            },
+            {
+                "type": "file",
+                "name": "gst-droid_0.20181128.0.orig.tar.xz"
+            },
+            {
+                "type": "file",
+                "name": "gst-droid_0.20181213.0.orig.tar.xz"
+            },
+            {
+                "type": "file",
+                "name": "index_0+git20180905.orig.tar.xz"
+            },
+            {
+                "type": "file",
+                "name": "index_0+git20180930.orig.tar.xz"
+            },
+            {
+                "type": "file",
+                "name": "index_0+git20181020.orig.tar.xz"
+            },
+            {
+                "type": "file",
+                "name": "index_0+git20181114.orig.tar.xz"
+            },
+            {
+                "type": "file",
+                "name": "kaidan_0.3.2+git20180929.orig.tar.xz"
+            },
+            {
+                "type": "file",
+                "name": "kaidan_0.3.2+git20181020.orig.tar.xz"
+            },
+            {
+                "type": "file",
+                "name": "kaidan_0.3.2+git20181213.orig.tar.xz"
+            },
+            {
+                "type": "file",
+                "name": "kaidan_0.3.2+git20181219.orig.tar.xz"
+            },
+            {
+                "type": "file",
+                "name": "kaidan_0.3.2+git20190114.orig.tar.xz"
+            },
+            {
+                "type": "file",
+                "name": "koko_0.0+git20180504.orig.tar.xz"
+            },
+            {
+                "type": "file",
+                "name": "kpeoplevcard_0.0+git20180520.orig.tar.xz"
+            },
+            {
+                "type": "file",
+                "name": "libhybris_0.1.0+git20180616.orig.tar.xz"
+            },
+            {
+                "type": "file",
+                "name": "libhybris_0.1.0+git20180625.orig.tar.xz"
+            },
+            {
+                "type": "file",
+                "name": "libhybris_0.1.0+git20181125.orig.tar.xz"
+            },
+            {
+                "type": "file",
+                "name": "libhybris_0.1.0+git20190104.orig.tar.xz"
+            },
+            {
+                "type": "file",
+                "name": "libhybris_0.1.0+git20190111.orig.tar.xz"
+            },
+            {
+                "type": "file",
+                "name": "llsvplayer_0.3+git20180828.orig.tar.xz"
+            },
+            {
+                "type": "file",
+                "name": "llsvplayer_0.3+git20181020.orig.tar.xz"
+            },
+            {
+                "type": "file",
+                "name": "lxc-android_0.1+git20180520.orig.tar.xz"
+            },
+            {
+                "type": "file",
+                "name": "lxc-android_0.1+git20180527.orig.tar.xz"
+            },
+            {
+                "type": "file",
+                "name": "lxc-android_0.1+git20180723.orig.tar.xz"
+            },
+            {
+                "type": "file",
+                "name": "mauikit_0+git20180927.orig.tar.xz"
+            },
+            {
+                "type": "file",
+                "name": "mauikit_0+git20181020.orig.tar.xz"
+            },
+            {
+                "type": "file",
+                "name": "mauikit_0+git20181114.orig.tar.xz"
+            },
+            {
+                "type": "file",
+                "name": "ofono-qt_1.5+git20120419+bcf0c04.orig.tar.xz"
+            },
+            {
+                "type": "file",
+                "name": "pix_0+git20180905.orig.tar.xz"
+            },
+            {
+                "type": "file",
+                "name": "pix_0+git20181003.orig.tar.xz"
+            },
+            {
+                "type": "file",
+                "name": "pix_0+git20181020.orig.tar.xz"
+            },
+            {
+                "type": "file",
+                "name": "pix_0+git20181114.orig.tar.xz"
+            },
+            {
+                "type": "file",
+                "name": "plasma-angelfish_0+git20180828.orig.tar.xz"
+            },
+            {
+                "type": "file",
+                "name": "plasma-angelfish_0+git20190107.orig.tar.xz"
+            },
+            {
+                "type": "file",
+                "name": "plasma-angelfish_0+git20190116.orig.tar.xz"
+            },
+            {
+                "type": "file",
+                "name": "plasma-camera_0.0.1+git20181031.orig.tar.xz"
+            },
+            {
+                "type": "file",
+                "name": "plasma-camera_0.0.1+git20181110.orig.tar.xz"
+            },
+            {
+                "type": "file",
+                "name": "plasma-camera_0.0.1+git20181111.orig.tar.xz"
+            },
+            {
+                "type": "file",
+                "name": "plasma-nm_5.14.3+git20190105.orig.tar.xz"
+            },
+            {
+                "type": "file",
+                "name": "plasma-phone-components_0.7+git20180811.orig.tar.xz"
+            },
+            {
+                "type": "file",
+                "name": "plasma-phone-components_0.7+git20181111.orig.tar.xz"
+            },
+            {
+                "type": "file",
+                "name": "plasma-phone-components_0.7+git20181114.orig.tar.xz"
+            },
+            {
+                "type": "file",
+                "name": "plasma-phone-settings_4+git20180223.orig.tar.xz"
+            },
+            {
+                "type": "file",
+                "name": "plasma-phone-settings_4+git20181111.orig.tar.xz"
+            },
+            {
+                "type": "file",
+                "name": "plasma-phone-settings_4.orig.tar.xz"
+            },
+            {
+                "type": "file",
+                "name": "plasma-settings_0.0.1+git20180828.orig.tar.xz"
+            },
+            {
+                "type": "file",
+                "name": "plasma-settings_0.0.1+git20181111.orig.tar.xz"
+            },
+            {
+                "type": "file",
+                "name": "plasma-settings_0.0.1+git20181114.orig.tar.xz"
+            },
+            {
+                "type": "file",
+                "name": "plasma-settings_0.0.1+git20190118.orig.tar.xz"
+            },
+            {
+                "type": "file",
+                "name": "qmic_0.1+git20180323.orig.tar.xz"
+            },
+            {
+                "type": "file",
+                "name": "qmic_0.1+git20180625.orig.tar.xz"
+            },
+            {
+                "type": "file",
+                "name": "qmic_0.1+git20180712.orig.tar.xz"
+            },
+            {
+                "type": "file",
+                "name": "qmic_0.1+git20181013.orig.tar.xz"
+            },
+            {
+                "type": "file",
+                "name": "qmi-gps-proxy_0.0+0+df3b976.orig.tar.xz"
+            },
+            {
+                "type": "file",
+                "name": "qmlkonsole_0+git20180927.orig.tar.xz"
+            },
+            {
+                "type": "file",
+                "name": "qmltermwidget_0.1+git20180903.orig.tar.xz"
+            },
+            {
+                "type": "file",
+                "name": "qrtr_0.3+git20180323.orig.tar.xz"
+            },
+            {
+                "type": "file",
+                "name": "qrtr_0.3+git20180712.orig.tar.xz"
+            },
+            {
+                "type": "file",
+                "name": "qrtr_0.3+git20181013.orig.tar.xz"
+            },
+            {
+                "type": "file",
+                "name": "rmtfs_0.2+git20180323.orig.tar.xz"
+            },
+            {
+                "type": "file",
+                "name": "rmtfs_0.2+git20181013.orig.tar.xz"
+            },
+            {
+                "type": "file",
+                "name": "rpmsgexport_0.1+git20180405.orig.tar.gz"
+            },
+            {
+                "type": "file",
+                "name": "rpmsgexport_0.1+git20181013.orig.tar.xz"
+            },
+            {
+                "type": "file",
+                "name": "simplelogin_0.0.6+git20180314.orig.tar.xz"
+            },
+            {
+                "type": "file",
+                "name": "simplelogin_0.0.6+git20181114.orig.tar.xz"
+            },
+            {
+                "type": "file",
+                "name": "telepathy-ofono_0.2.20161109.orig.tar.xz"
+            },
+            {
+                "type": "file",
+                "name": "vvave_1.2+git20180905.orig.tar.xz"
+            },
+            {
+                "type": "file",
+                "name": "vvave_1.2+git20180930.orig.tar.xz"
+            },
+            {
+                "type": "file",
+                "name": "vvave_1.2+git20181020.orig.tar.xz"
+            },
+            {
+                "type": "file",
+                "name": "vvave_1.2+git20181114.orig.tar.xz"
+            },
+            {
+                "type": "file",
+                "name": "xserver-xorg-video-hwcomposer_0.3.8+git20180622.orig.tar.xz"
+            },
+            {
+                "type": "file",
+                "name": "xserver-xorg-video-hwcomposer_0.3.8+git20181223.orig.tar.xz"
+            }
+        ]
+    },
+    {
+        "type": "report",
+        "directories": 0,
+        "files": 86
+    }
 ]
