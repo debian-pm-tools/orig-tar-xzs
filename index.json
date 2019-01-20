@@ -1,14 +1,10 @@
 [
-  {"type":"unknown","name":"*.xz|*.gz|*.tar|*.bz2","contents":[{"error": "opening dir"}
-  ]},
   {"type":"directory","name":".","contents":[
     {"type":"file","name":"accounts-qml-module_0.7.orig.tar.gz"},
     {"type":"file","name":"android-headers_7.1.orig.tar.xz"},
     {"type":"file","name":"angelfish_0+git20180814.orig.tar.xz"},
     {"type":"file","name":"buho_0+git20181020.orig.tar.xz"},
     {"type":"file","name":"buho_0+git20181114.orig.tar.xz"},
-    {"type":"file","name":"buho_0+git20181114.orig.tar.xz.1"},
-    {"type":"file","name":"createindex.sh"},
     {"type":"file","name":"drihybris_0.1.0+git20180622.orig.tar.xz"},
     {"type":"file","name":"drihybris_0.1.0+git20181223.orig.tar.xz"},
     {"type":"file","name":"glamor-hybris_0.1.0+git20180622.orig.tar.xz"},
@@ -25,8 +21,6 @@
     {"type":"file","name":"index_0+git20180930.orig.tar.xz"},
     {"type":"file","name":"index_0+git20181020.orig.tar.xz"},
     {"type":"file","name":"index_0+git20181114.orig.tar.xz"},
-    {"type":"file","name":"index.html"},
-    {"type":"file","name":"index.json"},
     {"type":"file","name":"kaidan_0.3.2+git20180929.orig.tar.xz"},
     {"type":"file","name":"kaidan_0.3.2+git20181020.orig.tar.xz"},
     {"type":"file","name":"kaidan_0.3.2+git20181213.orig.tar.xz"},
@@ -79,7 +73,6 @@
     {"type":"file","name":"qrtr_0.3+git20180323.orig.tar.xz"},
     {"type":"file","name":"qrtr_0.3+git20180712.orig.tar.xz"},
     {"type":"file","name":"qrtr_0.3+git20181013.orig.tar.xz"},
-    {"type":"file","name":"README.md"},
     {"type":"file","name":"rmtfs_0.2+git20180323.orig.tar.xz"},
     {"type":"file","name":"rmtfs_0.2+git20181013.orig.tar.xz"},
     {"type":"file","name":"rpmsgexport_0.1+git20180405.orig.tar.gz"},
@@ -94,5 +87,5 @@
     {"type":"file","name":"xserver-xorg-video-hwcomposer_0.3.8+git20180622.orig.tar.xz"},
     {"type":"file","name":"xserver-xorg-video-hwcomposer_0.3.8+git20181223.orig.tar.xz"}
   ]},
-  {"type":"report","directories":0,"files":91}
+  {"type":"report","directories":0,"files":86}
 ]
