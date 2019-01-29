@@ -225,6 +225,14 @@
             },
             {
                 "type": "file",
+                "name": "plasma-maliit-framework_0.0+git20150609.orig.tar.gz"
+            },
+            {
+                "type": "file",
+                "name": "plasma-maliit-plugins_0.0+git20150613.orig.tar.gz"
+            },
+            {
+                "type": "file",
                 "name": "plasma-nm_5.14.3+git20190105.orig.tar.xz"
             },
             {
@@ -364,6 +372,6 @@
     {
         "type": "report",
         "directories": 0,
-        "files": 89
+        "files": 91
     }
 ]
