@@ -89,6 +89,10 @@
             },
             {
                 "type": "file",
+                "name": "kaccounts-mobile_0.0+git20190120.orig.tar.xz"
+            },
+            {
+                "type": "file",
                 "name": "kaidan_0.3.2+git20180929.orig.tar.xz"
             },
             {
@@ -110,6 +114,10 @@
             {
                 "type": "file",
                 "name": "koko_0.0+git20180504.orig.tar.xz"
+            },
+            {
+                "type": "file",
+                "name": "koko_0.0+git20190126.orig.tar.xz"
             },
             {
                 "type": "file",
@@ -154,6 +162,10 @@
             {
                 "type": "file",
                 "name": "lxc-android_0.1+git20180723.orig.tar.xz"
+            },
+            {
+                "type": "file",
+                "name": "lxc-android_0.1+git20190129.orig.tar.xz"
             },
             {
                 "type": "file",
@@ -352,6 +364,6 @@
     {
         "type": "report",
         "directories": 0,
-        "files": 86
+        "files": 89
     }
 ]
