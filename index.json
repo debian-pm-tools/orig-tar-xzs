@@ -205,6 +205,14 @@
             },
             {
                 "type": "file",
+                "name": "mali-utgard_6.2.orig.tar.gz"
+            },
+            {
+                "type": "file",
+                "name": "mali-utgard-driver_0.1+git20190315.orig.tar.xz"
+            },
+            {
+                "type": "file",
                 "name": "mauikit_0+git20180927.orig.tar.xz"
             },
             {
@@ -218,6 +226,10 @@
             {
                 "type": "file",
                 "name": "mauikit_0+git20190205.orig.tar.xz"
+            },
+            {
+                "type": "file",
+                "name": "mtp-server_0.0.4+git20190305.orig.tar.xz"
             },
             {
                 "type": "file",
@@ -270,6 +282,10 @@
             {
                 "type": "file",
                 "name": "plasma-angelfish_0+git20190224.orig.tar.xz"
+            },
+            {
+                "type": "file",
+                "name": "plasma-angelfish_0+git20190318.orig.tar.xz"
             },
             {
                 "type": "file",
@@ -468,6 +484,6 @@
     {
         "type": "report",
         "directories": 0,
-        "files": 115
+        "files": 119
     }
 ]
