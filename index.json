@@ -21,6 +21,10 @@
             },
             {
                 "type": "file",
+                "name": "audiotube_22.04+git20220531.orig.tar.xz"
+            },
+            {
+                "type": "file",
                 "name": "buho_0+git20181020.orig.tar.xz"
             },
             {
@@ -561,6 +565,10 @@
             },
             {
                 "type": "file",
+                "name": "plasma-angelfish_22.06.orig-vendor.tar.xz"
+            },
+            {
+                "type": "file",
                 "name": "plasma-camera_0.0.1+git20181031.orig.tar.xz"
             },
             {
@@ -713,6 +721,10 @@
             },
             {
                 "type": "file",
+                "name": "plasma-phone-settings_4+git20220525.orig.tar.xz"
+            },
+            {
+                "type": "file",
                 "name": "plasma-phone-settings_4.orig.tar.xz"
             },
             {
@@ -778,6 +790,10 @@
             {
                 "type": "file",
                 "name": "qml-box2d_2.0.0+git20190227.orig.tar.xz"
+            },
+            {
+                "type": "file",
+                "name": "qml-box2d_2.0.0+git20220531.orig.tar.xz"
             },
             {
                 "type": "file",
@@ -952,6 +968,6 @@
     {
         "type": "report",
         "directories": 0,
-        "files": 236
+        "files": 240
     }
 ]
