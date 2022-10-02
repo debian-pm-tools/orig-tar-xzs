@@ -569,6 +569,10 @@
             },
             {
                 "type": "file",
+                "name": "plasma-angelfish_22.09.orig-vendor.tar.xz"
+            },
+            {
+                "type": "file",
                 "name": "plasma-camera_0.0.1+git20181031.orig.tar.xz"
             },
             {
@@ -968,6 +972,6 @@
     {
         "type": "report",
         "directories": 0,
-        "files": 240
+        "files": 241
     }
 ]
