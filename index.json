@@ -301,54 +301,6 @@
             },
             {
                 "type": "file",
-                "name": "libhybris_0.1.0+git20180616.orig.tar.xz"
-            },
-            {
-                "type": "file",
-                "name": "libhybris_0.1.0+git20180625.orig.tar.xz"
-            },
-            {
-                "type": "file",
-                "name": "libhybris_0.1.0+git20181125.orig.tar.xz"
-            },
-            {
-                "type": "file",
-                "name": "libhybris_0.1.0+git20190104.orig.tar.xz"
-            },
-            {
-                "type": "file",
-                "name": "libhybris_0.1.0+git20190111.orig.tar.xz"
-            },
-            {
-                "type": "file",
-                "name": "libhybris_0.1.0+git20190225.orig.tar.xz"
-            },
-            {
-                "type": "file",
-                "name": "libhybris_0.1.0+git20190226.orig.tar.xz"
-            },
-            {
-                "type": "file",
-                "name": "libhybris_0.1.0+git20190326.orig.tar.xz"
-            },
-            {
-                "type": "file",
-                "name": "libhybris_0.1.0+git20190401.orig.tar.xz"
-            },
-            {
-                "type": "file",
-                "name": "libhybris_0.1.0+git20200421.orig.tar.xz"
-            },
-            {
-                "type": "file",
-                "name": "libhybris_0.1.0+git20200424.orig.tar.xz"
-            },
-            {
-                "type": "file",
-                "name": "libhybris_0.1.0+git20210106.orig.tar.xz"
-            },
-            {
-                "type": "file",
                 "name": "llsvplayer_0.3+git20180828.orig.tar.xz"
             },
             {
@@ -366,34 +318,6 @@
             {
                 "type": "file",
                 "name": "llsvplayer_0.3+git20210521.orig.tar.xz"
-            },
-            {
-                "type": "file",
-                "name": "lxc-android_0.1+git20180520.orig.tar.xz"
-            },
-            {
-                "type": "file",
-                "name": "lxc-android_0.1+git20180527.orig.tar.xz"
-            },
-            {
-                "type": "file",
-                "name": "lxc-android_0.1+git20180723.orig.tar.xz"
-            },
-            {
-                "type": "file",
-                "name": "lxc-android_0.1+git20190129.orig.tar.xz"
-            },
-            {
-                "type": "file",
-                "name": "lxc-android_0.1+git20190206.orig.tar.xz"
-            },
-            {
-                "type": "file",
-                "name": "lxc-android_0.1+git20200312.orig.tar.xz"
-            },
-            {
-                "type": "file",
-                "name": "lxc-android_0.1+git20200315.orig.tar.xz"
             },
             {
                 "type": "file",
@@ -501,74 +425,6 @@
             },
             {
                 "type": "file",
-                "name": "plasma-angelfish_0+git20180828.orig.tar.xz"
-            },
-            {
-                "type": "file",
-                "name": "plasma-angelfish_0+git20190107.orig.tar.xz"
-            },
-            {
-                "type": "file",
-                "name": "plasma-angelfish_0+git20190116.orig.tar.xz"
-            },
-            {
-                "type": "file",
-                "name": "plasma-angelfish_0+git20190206.orig.tar.xz"
-            },
-            {
-                "type": "file",
-                "name": "plasma-angelfish_0+git20190224.orig.tar.xz"
-            },
-            {
-                "type": "file",
-                "name": "plasma-angelfish_0+git20190318.orig.tar.xz"
-            },
-            {
-                "type": "file",
-                "name": "plasma-angelfish_1.0.1.orig.tar.xz"
-            },
-            {
-                "type": "file",
-                "name": "plasma-angelfish_1.0.orig.tar.xz"
-            },
-            {
-                "type": "file",
-                "name": "plasma-angelfish_1.1.orig.tar.xz"
-            },
-            {
-                "type": "file",
-                "name": "plasma-angelfish_1.2.0.orig.tar.xz"
-            },
-            {
-                "type": "file",
-                "name": "plasma-angelfish_1.3.0.orig.tar.xz"
-            },
-            {
-                "type": "file",
-                "name": "plasma-angelfish_1.5.1+git20200914.orig.tar.xz"
-            },
-            {
-                "type": "file",
-                "name": "plasma-angelfish_21.08.orig-vendor.tar.xz"
-            },
-            {
-                "type": "file",
-                "name": "plasma-angelfish_21.12.orig-vendor.tar.xz"
-            },
-            {
-                "type": "file",
-                "name": "plasma-angelfish_22.02.orig-vendor.tar.xz"
-            },
-            {
-                "type": "file",
-                "name": "plasma-angelfish_22.04.orig-vendor.tar.xz"
-            },
-            {
-                "type": "file",
-                "name": "plasma-angelfish_22.06.orig-vendor.tar.xz"
-            },
-            {
-                "type": "file",
                 "name": "plasma-angelfish_22.09.orig-vendor.tar.xz"
             },
             {
@@ -649,50 +505,6 @@
             },
             {
                 "type": "file",
-                "name": "plasma-phone-components_0.7+git20180811.orig.tar.xz"
-            },
-            {
-                "type": "file",
-                "name": "plasma-phone-components_0.7+git20181111.orig.tar.xz"
-            },
-            {
-                "type": "file",
-                "name": "plasma-phone-components_0.7+git20181114.orig.tar.xz"
-            },
-            {
-                "type": "file",
-                "name": "plasma-phone-components_0.7+git20190204.orig.tar.xz"
-            },
-            {
-                "type": "file",
-                "name": "plasma-phone-components_0.7+git20190206.orig.tar.xz"
-            },
-            {
-                "type": "file",
-                "name": "plasma-phone-components_0.7+git20190208.orig.tar.xz"
-            },
-            {
-                "type": "file",
-                "name": "plasma-phone-components_0.7+git20190417.orig.tar.xz"
-            },
-            {
-                "type": "file",
-                "name": "plasma-phone-components_0.7+git20190501.orig.tar.xz"
-            },
-            {
-                "type": "file",
-                "name": "plasma-phone-components_0.7+git20190819.orig.tar.xz"
-            },
-            {
-                "type": "file",
-                "name": "plasma-phone-components_0.7+git20200221.orig.tar.xz"
-            },
-            {
-                "type": "file",
-                "name": "plasma-phone-components_5.23.0+git20211205.orig.tar.xz"
-            },
-            {
-                "type": "file",
                 "name": "plasma-phone-settings_4+git20180223.orig.tar.xz"
             },
             {
@@ -730,38 +542,6 @@
             {
                 "type": "file",
                 "name": "plasma-phone-settings_4.orig.tar.xz"
-            },
-            {
-                "type": "file",
-                "name": "plasma-settings_0.0.1+git20180828.orig.tar.xz"
-            },
-            {
-                "type": "file",
-                "name": "plasma-settings_0.0.1+git20181111.orig.tar.xz"
-            },
-            {
-                "type": "file",
-                "name": "plasma-settings_0.0.1+git20181114.orig.tar.xz"
-            },
-            {
-                "type": "file",
-                "name": "plasma-settings_0.0.1+git20190118.orig.tar.xz"
-            },
-            {
-                "type": "file",
-                "name": "plasma-settings_0.0.1+git20190204.orig.tar.xz"
-            },
-            {
-                "type": "file",
-                "name": "plasma-settings_0.0.1+git20190525.orig.tar.xz"
-            },
-            {
-                "type": "file",
-                "name": "plasma-settings_0.0.1+git20200222.orig.tar.xz"
-            },
-            {
-                "type": "file",
-                "name": "plasma-settings_0.0.1+git20200706.orig.tar.xz"
             },
             {
                 "type": "file",
@@ -972,6 +752,6 @@
     {
         "type": "report",
         "directories": 0,
-        "files": 241
+        "files": 186
     }
 ]
