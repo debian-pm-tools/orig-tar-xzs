@@ -21,10 +21,6 @@
             },
             {
                 "type": "file",
-                "name": "audiotube_22.04+git20220531.orig.tar.xz"
-            },
-            {
-                "type": "file",
                 "name": "buho_0+git20181020.orig.tar.xz"
             },
             {
@@ -426,6 +422,10 @@
             {
                 "type": "file",
                 "name": "plasma-angelfish_22.09.orig-vendor.tar.xz"
+            },
+            {
+                "type": "file",
+                "name": "plasma-angelfish_22.11.orig-vendor.tar.xz"
             },
             {
                 "type": "file",
