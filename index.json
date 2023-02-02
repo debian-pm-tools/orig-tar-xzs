@@ -21,6 +21,10 @@
             },
             {
                 "type": "file",
+                "name": "audiotube_22.04+git20220531.orig.tar.xz"
+            },
+            {
+                "type": "file",
                 "name": "buho_0+git20181020.orig.tar.xz"
             },
             {
@@ -58,6 +62,10 @@
             {
                 "type": "file",
                 "name": "corrosion_0.2.1.orig-vendor.tar.xz"
+            },
+            {
+                "type": "file",
+                "name": "corrosion_0.3.2.orig-vendor.tar.xz"
             },
             {
                 "type": "file",
@@ -429,6 +437,10 @@
             },
             {
                 "type": "file",
+                "name": "plasma-angelfish_23.01.0.orig-vendor.tar.xz"
+            },
+            {
+                "type": "file",
                 "name": "plasma-camera_0.0.1+git20181031.orig.tar.xz"
             },
             {
@@ -751,7 +763,7 @@
     },
     {
         "type": "report",
-        "directories": 0,
-        "files": 186
+        "directories": 1,
+        "files": 189
     }
 ]
