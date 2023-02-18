@@ -69,6 +69,10 @@
             },
             {
                 "type": "file",
+                "name": "corrosion_0.3.3.orig-vendor.tar.xz"
+            },
+            {
+                "type": "file",
                 "name": "drihybris_0.1.0+git20180622.orig.tar.xz"
             },
             {
@@ -764,6 +768,6 @@
     {
         "type": "report",
         "directories": 1,
-        "files": 189
+        "files": 190
     }
 ]
