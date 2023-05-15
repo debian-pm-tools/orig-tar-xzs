@@ -21,6 +21,10 @@
             },
             {
                 "type": "file",
+                "name": "angelfish_23.04.1.orig-vendor.tar.xz"
+            },
+            {
+                "type": "file",
                 "name": "audiotube_22.04+git20220531.orig.tar.xz"
             },
             {
@@ -329,11 +333,11 @@
             },
             {
                 "type": "file",
-                "name": "maliit-framework_0.99.1+git20201210.orig.tar.xz"
+                "name": "mali-utgard-driver_0.1+git20190315.orig.tar.xz"
             },
             {
                 "type": "file",
-                "name": "maliit-keyboard_0.99.1+git20201210.orig.tar.xz"
+                "name": "mali-utgard-driver_6.2.orig.tar.xz"
             },
             {
                 "type": "file",
@@ -341,11 +345,11 @@
             },
             {
                 "type": "file",
-                "name": "mali-utgard-driver_0.1+git20190315.orig.tar.xz"
+                "name": "maliit-framework_0.99.1+git20201210.orig.tar.xz"
             },
             {
                 "type": "file",
-                "name": "mali-utgard-driver_6.2.orig.tar.xz"
+                "name": "maliit-keyboard_0.99.1+git20201210.orig.tar.xz"
             },
             {
                 "type": "file",
@@ -509,18 +513,6 @@
             },
             {
                 "type": "file",
-                "name": "plasma-phonebook_0.0+git20190908.orig.tar.xz"
-            },
-            {
-                "type": "file",
-                "name": "plasma-phonebook_0.0+git20200223.orig.tar.xz"
-            },
-            {
-                "type": "file",
-                "name": "plasma-phonebook_0.0+git20200914.orig.tar.xz"
-            },
-            {
-                "type": "file",
                 "name": "plasma-phone-settings_4+git20180223.orig.tar.xz"
             },
             {
@@ -561,11 +553,27 @@
             },
             {
                 "type": "file",
+                "name": "plasma-phonebook_0.0+git20190908.orig.tar.xz"
+            },
+            {
+                "type": "file",
+                "name": "plasma-phonebook_0.0+git20200223.orig.tar.xz"
+            },
+            {
+                "type": "file",
+                "name": "plasma-phonebook_0.0+git20200914.orig.tar.xz"
+            },
+            {
+                "type": "file",
                 "name": "plasmatube_0+git20210407.orig.tar.xz"
             },
             {
                 "type": "file",
                 "name": "plasmatube_0+git20220329.orig.tar.xz"
+            },
+            {
+                "type": "file",
+                "name": "qmi-gps-proxy_0.0+0+df3b976.orig.tar.xz"
             },
             {
                 "type": "file",
@@ -582,10 +590,6 @@
             {
                 "type": "file",
                 "name": "qmic_0.1+git20181013.orig.tar.xz"
-            },
-            {
-                "type": "file",
-                "name": "qmi-gps-proxy_0.0+0+df3b976.orig.tar.xz"
             },
             {
                 "type": "file",
@@ -768,6 +772,6 @@
     {
         "type": "report",
         "directories": 1,
-        "files": 190
+        "files": 191
     }
 ]
